@@ -3,9 +3,9 @@ entries:
   engine:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-08-09T12:19:04.767424+02:00
+    created: 2019-08-09T12:34:10.110226+02:00
     description: A Helm chart for Kubernetes
-    digest: 577947d125d0718ac589e5f38fff317575c0368c6dcbc12ab647218dca61e13e
+    digest: e8ce5b1ce94fc8e76a48a68883cc400e9956f95d03623cbf289ab752aa283bd6
     name: engine
     urls:
     - engine-0.1.0.tgz
@@ -13,11 +13,11 @@ entries:
   omni-api-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-08-09T12:19:04.767766+02:00
+    created: 2019-08-09T12:34:10.110554+02:00
     description: A Helm chart for Spring Boot API's
     digest: a3bc02393ab5e98e478a3a9823d760b7850774c9e75d0ccf79c814efe5023527
     name: omni-api-chart
     urls:
     - omni-api-chart-0.1.0.tgz
     version: 0.1.0
-generated: 2019-08-09T12:19:04.766945+02:00
+generated: 2019-08-09T12:34:10.109769+02:00

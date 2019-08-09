@@ -1,0 +1,9 @@
+*.iml
+.idea
+.project
+.settings
+.classpath
+target/
+/outdated-dependencies.txt
+/checkstyle-cachefile
+webapp/activemq-data

@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  engine:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-08-09T11:32:00.256432+02:00
+    description: A Helm chart for Kubernetes
+    digest: 577947d125d0718ac589e5f38fff317575c0368c6dcbc12ab647218dca61e13e
+    name: engine
+    urls:
+    - https://sybrenbolandit.github.io/helm-charts/engine-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-08-09T11:32:00.255984+02:00

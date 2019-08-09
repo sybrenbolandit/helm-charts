@@ -3,7 +3,7 @@ entries:
   engine:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-08-09T15:55:41.098177+02:00
+    created: 2019-08-09T15:57:12.558529+02:00
     description: A Helm chart for a spring boot api
     digest: 60ec8f1bb27c53ec10ce3a5fa51241afbebc26de10f83e09f5be35a618602dc2
     name: engine
@@ -13,11 +13,11 @@ entries:
   omni-api-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-08-09T15:55:41.098423+02:00
+    created: 2019-08-09T15:57:12.558754+02:00
     description: A Helm chart for Spring Boot API's
-    digest: ad213c0500b1594ac226085fa47ed8d20e1e3252a56cd94ea9dfee2236111de5
+    digest: d9b6fa8a62d0c85b20f622353cbe3ccf4084a77c1c7ec564ab276fff9bce7998
     name: omni-api-chart
     urls:
     - omni-api-chart-0.1.0.tgz
     version: 0.1.0
-generated: 2019-08-09T15:55:41.09774+02:00
+generated: 2019-08-09T15:57:12.558099+02:00
